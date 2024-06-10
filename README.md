@@ -10,16 +10,6 @@ i am a frontend developer and also working on a backend who love nextjs and reac
 🌍  I'm based in India, Telangana<br>✉️  You can contact me at saiguna.vanam7@gmail.com<br>🧠  I'm learning Next.js<br>🤝  I'm open to collaborating on Projects<br>⚡  I'm Monkey D Luffy, Tell Everyone
 
 
-
-
-<a href="https://github.com/Saiguna7" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saiguna7&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
-
-
-
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/KJENnS9d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-guna-vanam-817404251) 
 
@@ -29,6 +19,7 @@ i am a frontend developer and also working on a backend who love nextjs and reac
 ![](https://github-readme-stats.vercel.app/api?username=Saiguna7&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Saiguna7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saiguna7&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<a href="http://www.github.com/Saiguna7"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Saiguna7&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
